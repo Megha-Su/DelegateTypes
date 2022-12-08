@@ -19,7 +19,7 @@ namespace PredicateDelegate
 
 
         }
-        static bool IsVowel(char input)
+        static bool IsVoweljhuyihy(char input)
         {
             bool isVowel = false;
             switch (char.ToLower(input))
